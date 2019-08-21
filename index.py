@@ -34,11 +34,11 @@
 #
 # Create a program that uses a Python range to loop from 50 to 10 and print each number in the console.
 #
-# num = 50
-# while num >= 10:
-#     print(num)
-#     num = num -1
+x = range(50, 9,-1)
+for n in x:
+    print(n)
 
+#
 # Exercise 5:
 #
 # Create a program that will count down from 10 to 1 (print the number) then print LIFTOFF! in the console
@@ -57,19 +57,19 @@
 # In the loop, count from the start number to end number entered by 5s.
 # Print each number in the console.
 
-num1 = int(input("Enter starting number "))
-num2 = int(input("Enter ending number "))
-
-while 0==0:
-    if num1 > num2:
-        print(num1)
-        num1 = num1 - 1
-    elif num1 < num2:
-        print(num1)
-        num1 = num1 + 1
-    elif num1 == num2:
-        print(num1)
-        break
-    else:
-        print("INVALID ANSWER")
-        break
+# num1 = int(input("Enter starting number "))
+# num2 = int(input("Enter ending number "))
+#
+# while 0==0:
+#     if num1 > num2:
+#         print(num1)
+#         num1 = num1 - 1
+#     elif num1 < num2:
+#         print(num1)
+#         num1 = num1 + 1
+#     elif num1 == num2:
+#         print(num1)
+#         break
+#     else:
+#         print("INVALID ANSWER")
+#         break
