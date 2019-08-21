@@ -13,7 +13,10 @@ Create a program that takes user input and prints the user input.
 Create a program that takes user input in a while loop. If they enter ‘q’ or 0 (your choice), quit. Inside the loop print ```LOOP```
 
 ### Exercise 4:
-Create a program that takes user input in a while loop. If they enter 1, print ```ONE```. If they enter 2, print ```TWO```. If they enter 3 print ```3```. If they enter ‘q’ or 0 (your choice), quit. Else, print ```ERROR```.
+Create a program that uses a Python range to loop from 50 to 10 and print each number in the console. 
 
 ### Exercise 5:
-Create a program that takes user input. If they enter 1, call a function that prints ```IN FUNCTION 1```. If they press 2, call a function that prints ```IN FUNCTION 2```. If they press 3, call a function that prints ```IN FUNCTION 3```. If they enter ‘q’ or 0 (your choice), quit. Else, print ```ERROR```.
+Create a program that will count down from 10 to 1 (print the number) then print ```LIFTOFF!``` in the console 
+
+### Exercise 6:
+Create a program that prompts for the starting and ending number for a counting loop. In the loop, count from the start number to end number entered by ```5```s. Print each number in the console.
